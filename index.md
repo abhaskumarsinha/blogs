@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to the story of a fool](https://abhaskumarsinha.github.io/blogs/story/The%20fool%20who%20became%20enlightened).
+
 
 There should be whitespace between paragraphs.
 
